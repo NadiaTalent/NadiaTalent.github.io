@@ -1,0 +1,59 @@
+.intro {
+ text-align: center;
+}
+
+.intro h1 {
+ font-size: 250%;
+ font-weight: lighter;
+ color: green;
+}
+
+.intro h2 {
+ color: green;
+ font-size: 120%;  
+ font-weight: lighter;
+}
+
+.hawthornpics {
+  width: 220px;
+  float: right;
+}
+
+.hawthornpics p {
+  margin-top: 0.5em;
+  text-align: center;
+  font size: 60%;
+  color: green;  
+}
+
+.hawthornpics A {
+  target: "_blank";
+}
+
+.hawthornpics IMG {
+  width: 210px;
+  height: 140px;
+  style: "border:2px solid white";
+}
+
+.pubs h1 {
+  font-size: 180%;
+  color: green;
+}
+
+.pubs p {
+  font-size: 100%;
+  color: black;
+}
+
+.signature h1 {
+  font-size: 180%;
+  color: green;
+}
+
+.signature h2 {
+  font-style:italic;
+  font-size: 80%;
+  color: green;
+}
+
